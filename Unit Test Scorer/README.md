@@ -2,7 +2,7 @@
 
 ![screenshot](console_output.png)
 
-This is the prototype version of the scoring script. It allows for "unit testing" with a small set of 12 predictions. The actual script is in a separate folder called [scoring Script](https://github.com/jgendron/BuildAHackathon/blob/master/Scoring Script/).
+This is the prototype version of the scoring script. It allows for "unit testing" with a small set of 12 predictions. The actual script is in a separate folder called [Scoring Script](https://github.com/jgendron/BuildAHackathon/blob/master/Scoring Script/).
 
 There are four files associated with this prototype
 
