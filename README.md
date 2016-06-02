@@ -1,5 +1,5 @@
 # BuildAHackathon
-This repo is a space to hold all our data sets, code, and text for the Tech Tank project. We can then roll it up for delivery and upload it to the Tech Tank GitHub along with our deck. Here are the deliverables:
+ This repo is a space to hold all our data sets, code, and text for the Tech Tank project. We can then roll it up for delivery and upload it to the Tech Tank GitHub along with our deck. Here are the deliverables:
 
 1. Problem text – Text file (.txt) that provides background information, the specific problem, a description of the data, and the format for question submission. This is the problem that will be presented to participants.
 2. [Training data](https://github.com/jgendron/BuildAHackathon/blob/master/Participant Data/shroom_train.csv) – These are data points that have all the features for each observation, plus the value of the target variable (the quantity you are trying to predict). This file will be provided to the participant.
