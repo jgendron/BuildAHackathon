@@ -39,7 +39,7 @@ def main():
     #-----
     # print preamble to console
     print('\nThank you for submitting your predictions...')
-    print('    How will did you choose?\n')
+    print('    How well did you choose?\n')
     print("Your 'shroom-a-thon results:")
     #-----
     # call scorer function, assigning output to flag
