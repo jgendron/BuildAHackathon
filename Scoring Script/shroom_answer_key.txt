@@ -1,4 +1,3 @@
-result
 poison
 edible
 edible
